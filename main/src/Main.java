@@ -4,6 +4,7 @@ import oop.model.planes.*;
 import java.util.ArrayList;
 
 public class Main {
+
     private static final int SEATS_NUMBER_BOEING = 223;
     private static final int SEATS_NUMBER_AIRBUS_320 = 156;
     private static final int SEATS_NUMBER_AIRBUS_321 = 188;
