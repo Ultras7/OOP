@@ -29,7 +29,7 @@ public class Main {
     private static final String ALL_PLANES_SEATS_NUMBER = "Общая вместимость самолетов авиакомпании = ";
     private static final String ALL_PLANES_OVERALL_WEIGHT = "Общая грузоподъемность самолетов авиакомпании = ";
     private static final String SORT_PLANES_OF_DISTNACE = " \n Сортировка самолетов по дистаниции перелета: ";
-    private static final String RANGE_PLANES_BY_FUEL = " \n Сортировка самолетов по топливу: ";
+    private static final String RANGE_PLANES_BY_FUEL = " \n Диапазон самолетов по топливу: ";
 
     private static final int FUEL_MIN = 20000;
     private static final int FUEL_MAX = 27000;
